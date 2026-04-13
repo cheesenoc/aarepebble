@@ -1,0 +1,27 @@
+{
+    "author": "Dreamweb",
+    "dependencies": {},
+    "keywords": [],
+    "name": "aare",
+    "pebble": {
+        "displayName": "Aare Temperature",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "diorite",
+            "emery",
+            "gabbro",
+            "flint"
+        ],
+        "uuid": "2ed9f7af-803f-4055-938a-19cf268d134f",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}

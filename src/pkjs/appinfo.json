@@ -1,0 +1,23 @@
+{
+  "uuid": "4f8d2ac9-0d5b-4d5e-bc83-90f4561c4a2b",
+  "shortName": "Aare Bern",
+  "longName": "Aare Bern",
+  "companyName": "dreamweb",
+  "versionLabel": "1.0.0",
+  "sdkVersion": "3",
+  "projectType": "native",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "REQUEST": 0,
+    "TEMPERATURE": 1,
+    "STATUS": 2
+  },
+  "targetPlatforms": [
+    "chalk, diority, emery, flint, gabro"
+  ],
+  "resources": {
+    "media": []
+  }
+}
