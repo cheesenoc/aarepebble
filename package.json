@@ -6,17 +6,19 @@
     "pebble": {
         "displayName": "Aare Temperature",
         "enableMultiJS": true,
-        "messageKeys": [],
+        "messageKeys": [
+            "REQUEST",
+            "TEMPERATURE",
+            "TIME",
+            "SHORT_TEXT"
+        ],
         "projectType": "native",
         "resources": {
             "media": []
         },
         "sdkVersion": "3",
         "targetPlatforms": [
-            "diorite",
-            "emery",
-            "gabbro",
-            "flint"
+            "gabbro"
         ],
         "uuid": "2ed9f7af-803f-4055-938a-19cf268d134f",
         "watchapp": {
